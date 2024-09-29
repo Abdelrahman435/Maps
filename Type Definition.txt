@@ -1,0 +1,3 @@
+type definition is as adapters between the typeScript code and the javascript libraies that we try to work with.
+
+the type definition file is tell typeScript compiler all the different functions that available inside the javascript library what type of arguments are take and what type of values those functions return.
